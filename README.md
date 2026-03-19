@@ -1,4 +1,7 @@
 # CEUS Toolbox for Matlab
+
+[![DOI](https://zenodo.org/badge/223989230.svg)](https://doi.org/10.5281/zenodo.19118763)
+
 This CEUS toolbox provides basic import/export, plotting and manipulation methods in Matlab for Bösendorfers CEUS file format (both version 1.0 and 2.0).
 
 The Bösendorfer CEUS system is an embedded recording and reproducing system built into 
